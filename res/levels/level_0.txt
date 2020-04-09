@@ -1,0 +1,12 @@
+	modelName: "Arachnoid.obj";
+	entityBossType: "ENTITY_BOSS_FIRE";
+	entityType: "ENTITY_BOSS";
+	position: -0.420000 4.000000 0.000000;
+	rotation: 0.707107 -0.707107 0.000000 0.000000;
+	scale: 1.000000 1.000000 1.000000;
+	color: 1.000000 1.000000 1.000000 1.000000;
+}
+
+	tag: "boss";
+	tag: "space";
+	tag: "fireboss";

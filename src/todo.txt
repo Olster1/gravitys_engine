@@ -1,0 +1,10 @@
+
+Entities have an id in the save files, but they aren't unique once you load them into the world, basica
+
+easy_hash.h file - murmur hash function
+easy_logger.h file - logger file
+
+OS:
+Switch to windows for windows, files, Opengl & Sound
+
+Finish my_dialog file
